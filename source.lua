@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Dragevip/ScriptHub/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Dragevip/ScriptHub/main/library.lua"))()
 local Window = Library.CreateLib("Script Hub", "BloodTheme")
 
 --MAIN
